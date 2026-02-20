@@ -1,6 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Supreetha%20H%20M&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau%20%7C%20Looker%20Studio&descAlignY=62&descSize=16&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=160&section=header&text=&fontSize=1&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+<!-- 
+  ╔══════════════════════════════════════════════════════════╗
+  ║  SETUP: Upload name_banner.png to your GitHub repo and  ║
+  ║  replace the src below with your raw GitHub image URL:  ║
+  ║  https://raw.githubusercontent.com/Supreetha669/        ║
+  ║  Supreetha669/main/name_banner.png                      ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
+<img src="https://raw.githubusercontent.com/Supreetha669/Supreetha669/main/name_banner.png" alt="Supreetha H M" width="600"/>
 
 <br/>
 
@@ -117,43 +128,41 @@
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top" style="padding: 16px;">
-      <h3>🏦 Bank Customer Churn Analysis</h3>
+    <td width="50%" valign="top">
+      <h3>Bank Customer Churn Analysis</h3>
       <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      &nbsp;<img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
       <br/><br/>
-      Built an interactive Power BI dashboard to analyze churn behavior across 10,000+ customer records. Applied Python and SQL for preprocessing and segmentation. Visualized credit score, geography, and account activity to surface retention insights.
+      Built an interactive Power BI dashboard analyzing churn behavior across 10,000+ customer records. Applied Python and SQL for preprocessing and segmentation. Visualized credit score, geography, and account activity to surface retention insights.
       <br/><br/>
-      <b>Impact →</b> Identified high-risk churn segments with actionable retention recommendations.
+      <b>Impact:</b> Identified high-risk churn segments with actionable retention recommendations.
     </td>
-    <td width="50%" valign="top" style="padding: 16px;">
-      <h3>👥 Customer Segmentation & Retention</h3>
+    <td width="50%" valign="top">
+      <h3>Customer Segmentation & Retention</h3>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
       <br/><br/>
-      Designed interactive Tableau dashboards analyzing customer lifetime value, retention rates, and purchase patterns. Enabled business stakeholders to identify high-value segments and build targeted marketing strategies.
+      Designed interactive Tableau dashboards analyzing customer lifetime value, retention rates, and purchase patterns. Enabled stakeholders to identify high-value segments and build targeted marketing strategies.
       <br/><br/>
-      <b>Impact →</b> Data-driven segmentation framework informing targeted marketing campaigns.
+      <b>Impact:</b> Data-driven segmentation framework informing targeted marketing campaigns.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top" style="padding: 16px;">
-      <h3>🛒 Sales & Customer Analytics Dashboard</h3>
+    <td width="50%" valign="top">
+      <h3>Sales & Customer Analytics Dashboard</h3>
       <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
       <br/><br/>
       Processed 50,000+ order records to surface regional profit trends, discount impact, shipping delays, and product KPIs. Built for cross-functional teams to support weekly and monthly business reviews.
       <br/><br/>
-      <b>Impact →</b> Improved regional performance visibility and strategic decision-making.
+      <b>Impact:</b> Improved regional performance visibility and strategic decision-making.
     </td>
-    <td width="50%" valign="top" style="padding: 16px;">
-      <h3>📈 More Projects Coming Soon</h3>
+    <td width="50%" valign="top">
+      <h3>More Projects Coming Soon</h3>
       <img src="https://img.shields.io/badge/Status-In%20Progress-6366f1?style=flat-square"/>
       <br/><br/>
       Currently building advanced analytics projects focused on Performance Marketing Analytics, A/B Testing simulation, and Python-based EDA pipelines.
       <br/><br/>
-      <b>Focus →</b> Digital experimentation, attribution modeling, and funnel analytics.
+      <b>Focus:</b> Digital experimentation, attribution modeling, and funnel analytics.
     </td>
   </tr>
 </table>
