@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:a855f7&height=200&section=header&text=Supreetha%20H%20M&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau%20%7C%20Looker%20Studio&descAlignY=60&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Supreetha%20H%20M&fontSize=34&fontColor=fff&animation=twinkling&fontAlignY=38&desc=SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau%20%7C%20Looker%20Studio&descAlignY=60&descSize=16" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Power+BI+%7C+Tableau+%7C+Looker+Studio;SQL+%7C+Python+%7C+Pandas+%7C+NumPy+%7C+Matplotlib;Building+Dashboards+that+Drive+Decisions+%F0%9F%93%8A;Always+Learning.+Always+Growing.+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
