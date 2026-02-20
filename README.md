@@ -157,26 +157,18 @@
 
 ## 📈 GitHub Stats
 
-</div>
-
 <div align="center">
-
+📈 GitHub Stats
+</div>
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreetha669&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="48%"/>
-
 <br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" width="48%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supreetha669&theme=tokyonight" width="48%"/>
-
 </div>
 
----
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-⭐ **Always Learning. Always Improving. Turning Data into Decisions.**
-
+⭐ Always Learning. Always Improving. Turning Data into Decisions.
 </div>
