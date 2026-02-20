@@ -1,188 +1,205 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,8,24,30&height=200&section=header&text=Supreetha%20H%20M&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau%20%7C%20Looker%20Studio&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,14,22,28&height=160&section=header&text=Supreetha%20H%20M&fontSize=55&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=✦%20Data%20Analyst%20✦%20SQL%20✦%20Python%20✦%20Power%20BI%20✦%20Tableau%20✦%20Looker%20Studio%20✦&descAlignY=80&descSize=14" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=750&lines=Transforming+Data+into+Actionable+Insights+%F0%9F%92%A1;Building+Dashboards+that+Tell+Stories+%F0%9F%93%8A;Performance+Marketing+%7C+Digital+Analytics+%F0%9F%9A%80;Always+Curious.+Always+Growing.+%F0%9F%8C%B8)](https://git.io/typing-svg)
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=E879F9&center=true&vCenter=true&width=750&lines=🌸+Transforming+Raw+Data+into+Smart+Decisions;📊+Building+Dashboards+that+Drive+Strategy;🚀+Performance+Marketing+%7C+Digital+Analytics;💡+Always+Curious.+Always+Growing.)](https://git.io/typing-svg)
+
+<br/>
 
 <p>
   <a href="https://www.linkedin.com/in/supreethahm">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>&nbsp;
   <a href="mailto:supreethahm517@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  </a>&nbsp;
   <a href="https://www.hackerrank.com/profile/supreethahm517">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Supreetha669&color=F97316&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Supreetha669&color=E879F9&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌸 About Me
 
-<div align="center">
+<table>
+<tr>
+<td>
 
-| 📍 Mysore, Karnataka | 🎓 B.E. Computer Science | 💼 Open to Opportunities |
-|:---:|:---:|:---:|
-| Visvesvaraya Technological University | CGPA: 8.44 / 10 | Full-time / Internship |
+```yaml
+Name        : Supreetha H M
+Location    : Mysore, Karnataka 🇮🇳
+Education   : B.E. Computer Science (VTU)
+CGPA        : 8.44 / 10
+Experience  : Data Analyst | Software Developer
+Focus       : Performance Marketing Analytics
+Status      : Open to Full-time / Internship 💼
+Pronouns    : She / Her
+```
 
-</div>
+</td>
+<td align="center" width="40%">
 
-<br>
+🎯 **What I Do**
 
-<div align="center">
+📌 Turn messy data into clean insights  
+📌 Build dashboards that tell stories  
+📌 Define KPIs that actually matter  
+📌 Automate reports for smarter teams  
+📌 Analyze customer behavior patterns  
 
-*"Data is not just numbers — it's the language of smarter decisions."*
+<br/>
 
-</div>
+*"Data is not just numbers —*  
+*it's the language of better decisions."*
 
-<br>
+</td>
+</tr>
+</table>
 
-<div align="center">
-
-| 🎯 Expertise | 🛠️ Core Skills | 🌱 Exploring |
-|:---|:---|:---|
-| Business Intelligence & KPI Reporting | Power BI · Tableau · Looker Studio | Performance Marketing Analytics |
-| Data Cleaning & Exploratory Analysis | SQL · Python · Pandas · NumPy | Digital Experimentation & A/B Testing |
-| Customer Segmentation & Retention | Excel · Matplotlib · Seaborn | Big Data: Spark & Hive |
-
-</div>
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-**🗃️ Data & Querying**
+### 🗃️ Data & Querying
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Advanced](https://img.shields.io/badge/SQL_Advanced-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Apache Hive](https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL%20Advanced-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+### 📊 BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white)
 
-**📊 BI & Visualization**
+### 🐍 Programming & Libraries
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white)
-
-**🐍 Programming & Libraries**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**🧰 Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 💼 Work Experience
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📊 Data Analyst Intern</h3>
-      <img src="https://img.shields.io/badge/A2M%20Infotech-Feb%202025–Jun%202025-F97316?style=flat-square"/>
-      <p>Conducted large-scale data cleaning, EDA, and digital behavior analysis using SQL & Python. Built automated dashboards that reduced reporting time by <b>40%</b>. Defined KPIs for channel health, customer engagement, and product performance.</p>
-      <b>📌 Impact:</b> 40% improvement in reporting efficiency
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 Junior Software Developer</h3>
-      <img src="https://img.shields.io/badge/Tackle--D%20Solutions-Apr%202024–Nov%202024-8B5CF6?style=flat-square"/>
-      <p>Improved digital product experience, reducing bounce rate by <b>15%</b> and increasing user engagement by <b>30%</b>. Led a team of 3 developers delivering 10+ applications with 100% on-time rate.</p>
-      <b>📌 Impact:</b> 20% boost in client satisfaction
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔬 Research Intern</h3>
-      <img src="https://img.shields.io/badge/C--DAC%20Bengaluru-Aug%202023–Feb%202024-10B981?style=flat-square"/>
-      <p>Improved algorithm efficiency by <b>30%</b> through parallel programming in C++. Contributed to IoT physical attack detection research improving threat coverage by <b>25%</b>.</p>
-      <b>📌 Impact:</b> 25% improvement in threat detection accuracy
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 What I Bring</h3>
-      <img src="https://img.shields.io/badge/Skills-Always%20Growing-F97316?style=flat-square"/>
-      <p>A passion for transforming raw data into decisions. Strong analytical mindset combined with excellent communication skills and a collaborative approach to cross-functional teams.</p>
-      <b>📌 Focus:</b> Performance Marketing & Digital Analytics
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  📊  Data Analyst Intern  |  A2M Infotech Pvt Ltd  |  Feb–Jun 2025  ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> 🔹 Conducted large-scale data cleaning, EDA & digital behavior analysis using **SQL & Python**  
+> 🔹 Built automated dashboards & report pipelines — reduced reporting time by **40%**  
+> 🔹 Defined KPIs for channel health, customer engagement & product performance  
+> 🔹 Supported performance marketing through data-driven reporting  
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  💻  Junior Software Developer  |  Tackle-D Solutions Pvt Ltd  |  Apr–Nov 2024  ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> 🔹 Reduced bounce rate by **15%** and increased user engagement by **30%**  
+> 🔹 Led a team of 3 developers — delivered **10+ projects** with 100% on-time rate  
+> 🔹 Ensured **100% uptime** during peak traffic, improving client satisfaction by **20%**  
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║  🔬  Research Intern  |  C-DAC, Bengaluru  |  Aug 2023 – Feb 2024   ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+> 🔹 Improved algorithm efficiency by **30%** using parallel programming in C++  
+> 🔹 Enhanced IoT physical attack detection accuracy by **25%**  
+> 🔹 Assisted with large-scale data processing and HPC workflow analysis  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 Bank Customer Churn Analysis</h3>
-      <img src="https://img.shields.io/badge/Tool-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      <p>Built an interactive dashboard analyzing churn behavior across <b>10,000+ customer records</b>. Visualized credit score, geography, and account activity to identify high-risk segments and retention drivers.</p>
-      <b>📌 Impact:</b> Actionable churn reduction strategies identified
-    </td>
-    <td width="50%" valign="top">
-      <h3>👥 Customer Segmentation & Retention</h3>
-      <img src="https://img.shields.io/badge/Tool-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-      <p>Designed interactive Tableau dashboards analyzing customer behavior, retention rates, lifetime value, and purchase patterns for targeted marketing strategies.</p>
-      <b>📌 Impact:</b> Identified high-value customer segments
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛒 Sales & Customer Analytics</h3>
-      <img src="https://img.shields.io/badge/Tool-Looker%20Studio-4285F4?style=flat-square&logo=google&logoColor=white"/>
-      <p>Analyzed sales, shipping, and customer data from <b>50,000+ order records</b>. Tracked regional profit, discounts, and shipping delays to drive data-informed strategic decisions.</p>
-      <b>📌 Impact:</b> Strategic insights for business growth
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ More Projects Coming Soon...</h3>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-F97316?style=flat-square"/>
-      <p>Currently building projects around <b>Performance Marketing Analytics, A/B Testing, and Digital Experimentation</b> using Python and BI tools.</p>
-      <b>📌 Stay tuned for updates!</b>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
+| 🏦 Bank Customer Churn Analysis | 👥 Customer Segmentation & Retention |
+|:---|:---|
+| **Tool:** Power BI + Python + SQL | **Tool:** Tableau |
+| Analyzed churn behavior across **10,000+ records** | Segmented customers by behavior, LTV & patterns |
+| Visualized credit score, geography, account activity | Built retention & purchase pattern dashboards |
+| 📌 *Actionable churn reduction strategies* | 📌 *Targeted high-value customer strategies* |
+
+| 🛒 Sales & Customer Analytics | ✨ Coming Soon... |
+|:---|:---|
+| **Tool:** Google Looker Studio | **Tool:** Python + BI Tools |
+| Analyzed **50,000+ order records** | Performance Marketing Analytics |
+| Tracked regional profit, discounts, shipping | A/B Testing & Digital Experimentation |
+| 📌 *Strategic business growth insights* | 📌 *Stay tuned for updates!* |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏆 Certifications
 
-| 🥇 | 🥇 |
-|---|---|
-| **GenAI Powered Data Analytics** – Tata Group *(Nov 2025)* | **Data Analytics Job Simulation** – Deloitte Australia *(Nov 2025)* |
-| **SQL (Advanced)** – HackerRank *(Jun 2025)* | **Python (Basic)** – HackerRank *(Jun 2025)* |
-| **Introduction to Data Science** – Cisco Networking Academy *(May 2025)* | **Data Analytics Essentials** – Cisco Networking Academy *(May 2025)* |
-| **Data Analytics** – A2M Infotech Pvt Ltd *(Feb 2025)* | *(More certifications in progress...)* |
+<div align="center">
 
----
+| 🥇 Certificate | 🏢 Issuer | 📅 Year |
+|:---|:---|:---:|
+| GenAI Powered Data Analytics Job Simulation | Tata Group | 2025 |
+| Data Analytics Job Simulation | Deloitte Australia | 2025 |
+| SQL (Advanced) | HackerRank | 2025 |
+| Python (Basic) | HackerRank | 2025 |
+| Introduction to Data Science | Cisco Networking Academy | 2025 |
+| Data Analytics Essentials | Cisco Networking Academy | 2025 |
+| Data Analytics | A2M Infotech Pvt Ltd | 2025 |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreetha669&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=8B5CF6&currStreakLabel=F97316" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E879F9&icon_color=E879F9&text_color=ffffff" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreetha669&theme=tokyonight&hide_border=true&background=0D1117&ring=E879F9&fire=F97316&currStreakLabel=E879F9" width="48%"/>
 
-</div>
+<br/><br/>
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E879F9" width="40%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316" width="40%"/>
+<br/><br/>
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Supreetha669&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=E879F9&line=F97316&point=ffffff)](https://github.com/Supreetha669)
 
 </div>
 
@@ -190,8 +207,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=0,2,8,24,30&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,22,28&height=2&section=footer" width="100%"/>
 
-⭐ **Turning Data into Decisions — One Dashboard at a Time.**
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,22,28&height=100&section=footer&text=⭐%20Turning%20Data%20into%20Decisions%20—%20One%20Dashboard%20at%20a%20Time&fontSize=18&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
