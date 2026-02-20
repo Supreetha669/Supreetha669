@@ -43,19 +43,8 @@
 
 <div align="center">
 
-## About Me
-
-| | |
-|:---:|:---|
-| 📍 **Location** | Mysore, Karnataka, India |
-| 🎓 **Education** | B.E. Computer Science — Visvesvaraya Technological University · CGPA 8.44 / 10 |
-| 💼 **Availability** | Immediate · Full-time & Internship |
-| 🎯 **Focus** | Performance Marketing Analytics · KPI Development · Dashboard Automation |
-| 📬 **Contact** | supreethahm517@gmail.com |
-
-<br/>
-
-*"Data is not just numbers — it is the language of better decisions."*
+<!-- Upload about_section.png to your GitHub profile repo and update the URL below -->
+<img src="https://raw.githubusercontent.com/Supreetha669/Supreetha669/main/about_section.png" alt="About Me" width="100%"/>
 
 </div>
 
@@ -65,16 +54,8 @@
 
 <div align="center">
 
-## Expertise · Skills · Exploring
-
-| 🎯 Core Expertise | 🛠 Technical Skills | 🌱 Currently Exploring |
-|:---|:---|:---|
-| KPI Development & Definition | SQL · Python · Pandas · NumPy | Performance Marketing Analytics |
-| Dashboard Design & Automation | Power BI · Tableau · Looker Studio | Digital Experimentation & A/B Testing |
-| Customer Behavior Analysis | Matplotlib · Seaborn · Excel | Predictive Analytics with ML |
-| Data Cleaning & EDA | Apache Hive · Apache Spark | Cloud BI Platforms |
-| Reporting Pipeline Automation | Git · Jupyter · VS Code | Advanced DAX & Power Query |
-| Cross-functional Data Delivery | Data Wrangling · Segmentation | Statistical Modeling |
+<!-- Upload expertise_section.png to your GitHub profile repo and update the URL below -->
+<img src="https://raw.githubusercontent.com/Supreetha669/Supreetha669/main/expertise_section.png" alt="Expertise Skills Exploring" width="100%"/>
 
 </div>
 
