@@ -1,6 +1,5 @@
 <div align="center">
 
-<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:7c3aed,100:a855f7&height=200&section=header&text=Supreetha%20H%20M&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau%20%7C%20Looker%20Studio&descAlignY=60&descSize=17" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+into+Actionable+Insights+%F0%9F%9A%80;Power+BI+%7C+Tableau+%7C+Looker+Studio;SQL+%7C+Python+%7C+Pandas+%7C+NumPy+%7C+Matplotlib;Building+Dashboards+that+Drive+Decisions+%F0%9F%93%8A;Always+Learning.+Always+Growing.+%F0%9F%8C%B1)](https://git.io/typing-svg)
@@ -157,18 +156,32 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-📈 GitHub Stats
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreetha669&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1" width="48%"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8" width="48%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supreetha669&theme=tokyonight" width="48%"/>
 </div>
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&border_radius=10&count_private=true&include_all_commits=true" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreetha669&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=6366F1&border_radius=10" width="100%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&langs_count=8&border_radius=10" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Supreetha669&theme=tokyonight" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-⭐ Always Learning. Always Improving. Turning Data into Decisions.
+
+⭐ **Always Learning. Always Improving. Turning Data into Decisions.**
+
 </div>
