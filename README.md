@@ -1,17 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=160&section=header&text=&fontSize=1&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-<!-- 
-  ╔══════════════════════════════════════════════════════════╗
-  ║  SETUP: Upload name_banner.png to your GitHub repo and  ║
-  ║  replace the src below with your raw GitHub image URL:  ║
-  ║  https://raw.githubusercontent.com/Supreetha669/        ║
-  ║  Supreetha669/main/name_banner.png                      ║
-  ╚══════════════════════════════════════════════════════════╝
--->
-
-<img src="https://raw.githubusercontent.com/Supreetha669/Supreetha669/main/name_banner.png" alt="Supreetha H M" width="600"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=220&section=header&text=Supreetha%20H%20M&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20SQL%20%7C%20Python%20%7C%20Power%20BI%20%7C%20Tableau%20%7C%20Looker%20Studio&descAlignY=62&descSize=16&descColor=c7d2fe" width="100%"/>
 
 <br/>
 
@@ -30,42 +19,38 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Supreetha669&style=flat-square&color=6366f1&label=Profile+Views)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)
-&nbsp;
-![Location](https://img.shields.io/badge/Mysore%2C%20India-6366f1?style=flat-square&logo=googlemaps&logoColor=white)
+&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/Open%20to%20Work-22c55e?style=flat-square)
+&nbsp;&nbsp;
+![Location](https://img.shields.io/badge/Mysore%2C%20India-6366f1?style=flat-square)
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<div align="center">
+
+| 📍 Mysore, Karnataka | 🎓 B.E. Computer Science | 💼 Open to Opportunities |
+|:---:|:---:|:---:|
+| Visvesvaraya Technological University | CGPA: 8.44 / 10 | Full-time / Internship |
 
 </div>
 
 <br/>
 
----
-
 <div align="center">
 
-<!-- Upload about_section.png to your GitHub profile repo and update the URL below -->
-<img src="https://raw.githubusercontent.com/Supreetha669/Supreetha669/main/about_section.png" alt="About Me" width="100%"/>
+*"Data is not just numbers — it is the language of better decisions."*
 
 </div>
 
-<br/>
-
 ---
 
-<div align="center">
-
-<!-- Upload expertise_section.png to your GitHub profile repo and update the URL below -->
-<img src="https://raw.githubusercontent.com/Supreetha669/Supreetha669/main/expertise_section.png" alt="Expertise Skills Exploring" width="100%"/>
-
-</div>
-
-<br/>
-
----
+## 🛠 Tech Stack
 
 <div align="center">
-
-## Tech Stack
 
 **Databases & Querying**
 
@@ -97,66 +82,53 @@
 
 </div>
 
-<br/>
+---
+
+## 💼 Work Experience
+
+**📊 Data Analyst Intern &nbsp;·&nbsp; A2M Infotech Pvt Ltd, Bengaluru**
+&nbsp;&nbsp;![](https://img.shields.io/badge/Feb_2025–Jun_2025-6366f1?style=flat-square)
+
+- Conducted large-scale **data cleaning, EDA & validation** across sales and customer datasets
+- Performed **SQL and Python-based** digital behavior analysis for marketing and product teams
+- Built automated dashboards & pipelines — reducing reporting time by **40%**
+- Defined **KPIs** to track channel health, customer engagement & product performance
+
+**💻 Junior Software Developer &nbsp;·&nbsp; Tackle-D Solutions Pvt Ltd, Kushalnagar**
+&nbsp;&nbsp;![](https://img.shields.io/badge/Apr_2024–Nov_2024-8b5cf6?style=flat-square)
+
+- Reduced bounce rate by **15%** and increased user engagement by **30%**
+- Led a team of 3 developers, delivering **10+ projects** with 100% on-time delivery rate
+- Improved client satisfaction by **20%** through consistent digital product quality
+
+**🔬 Research Intern &nbsp;·&nbsp; C-DAC, Bengaluru**
+&nbsp;&nbsp;![](https://img.shields.io/badge/Aug_2023–Feb_2024-a855f7?style=flat-square)
+
+- Improved algorithm efficiency by **30%** via parallel programming in C++
+- Contributed to IoT physical attack detection, improving threat coverage by **25%**
+- Assisted with large-scale data processing and HPC workflow analysis
 
 ---
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-## Featured Projects
+| Project | Tools | Description | Impact |
+|:---|:---|:---|:---|
+| 🏦 **Bank Customer Churn Analysis** | Power BI · Python · SQL | Dashboard analyzing churn across 10,000+ customer records. Visualized credit score, geography & account activity. | Identified high-risk segments & retention strategies |
+| 👥 **Customer Segmentation & Retention** | Tableau | Interactive dashboards for LTV, retention rates & purchase patterns across customer cohorts. | Data-driven targeted marketing framework |
+| 🛒 **Sales & Customer Analytics** | Looker Studio | Processed 50,000+ orders to track profit, discounts, shipping delays & regional KPIs. | Improved regional performance visibility |
 
 </div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Bank Customer Churn Analysis</h3>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-      &nbsp;<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      &nbsp;<img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
-      <br/><br/>
-      Built an interactive Power BI dashboard analyzing churn behavior across 10,000+ customer records. Applied Python and SQL for preprocessing and segmentation. Visualized credit score, geography, and account activity to surface retention insights.
-      <br/><br/>
-      <b>Impact:</b> Identified high-risk churn segments with actionable retention recommendations.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Customer Segmentation & Retention</h3>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-      <br/><br/>
-      Designed interactive Tableau dashboards analyzing customer lifetime value, retention rates, and purchase patterns. Enabled stakeholders to identify high-value segments and build targeted marketing strategies.
-      <br/><br/>
-      <b>Impact:</b> Data-driven segmentation framework informing targeted marketing campaigns.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Sales & Customer Analytics Dashboard</h3>
-      <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat-square&logo=looker&logoColor=white"/>
-      <br/><br/>
-      Processed 50,000+ order records to surface regional profit trends, discount impact, shipping delays, and product KPIs. Built for cross-functional teams to support weekly and monthly business reviews.
-      <br/><br/>
-      <b>Impact:</b> Improved regional performance visibility and strategic decision-making.
-    </td>
-    <td width="50%" valign="top">
-      <h3>More Projects Coming Soon</h3>
-      <img src="https://img.shields.io/badge/Status-In%20Progress-6366f1?style=flat-square"/>
-      <br/><br/>
-      Currently building advanced analytics projects focused on Performance Marketing Analytics, A/B Testing simulation, and Python-based EDA pipelines.
-      <br/><br/>
-      <b>Focus:</b> Digital experimentation, attribution modeling, and funnel analytics.
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ---
+
+## 🏅 Certifications
 
 <div align="center">
 
-## Certifications
-
-| 🏅 Certification | 🏢 Issuer | 📅 Issued |
+| Certification | Issuer | Issued |
 |:---|:---|:---:|
 | GenAI Powered Data Analytics Job Simulation | Tata Group | Nov 2025 |
 | Data Analytics Job Simulation | Deloitte Australia | Nov 2025 |
@@ -168,30 +140,70 @@
 
 </div>
 
-<br/>
-
 ---
+
+## 🎓 Education
 
 <div align="center">
 
-## GitHub Stats
+| Institution | Degree | Year | Score |
+|:---|:---|:---:|:---:|
+| Visvesvaraya Technological University (VTU) | B.E. — Computer Science & Engineering | 2019–2023 | 8.44 / 10 |
+| Vidyodaya Girls PU College, T. Narasipura | Pre-University — Science | 2017–2019 | 64.50% |
+| Govt High School, Chikkabagilu, Mandya | SSLC — Class X | 2017 | 81.76% |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&hide_border=true&title_color=6366f1&icon_color=6366f1&border_radius=8)
-
+&nbsp;
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Supreetha669&theme=tokyonight&hide_border=true&ring=6366f1&fire=a855f7&currStreakLabel=6366f1&border_radius=8)
 
+<br/>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&theme=tokyonight&hide_border=true&title_color=6366f1&border_radius=8)
+
+<br/>
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Supreetha669&bg_color=1a1b27&color=6366f1&line=a855f7&point=6366f1&area=true&area_color=6366f120&hide_border=true&radius=8)](https://github.com/Supreetha669)
 
 </div>
 
-<br/>
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Supreetha669/Supreetha669/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Supreetha669/Supreetha669/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Supreetha669/Supreetha669/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=130&section=footer&animation=fadeIn&text=Open%20to%20work%20%E2%80%94%20Let%27s%20connect%20and%20build%20with%20data.&fontSize=17&fontColor=ffffff&fontAlignY=65" width="100%"/>
+*Open to work — let's connect and build with data.*
+
+<br/>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/supreethahm)
+&nbsp;
+[![Send an Email](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:supreethahm517@gmail.com)
+&nbsp;
+[![View HackerRank](https://img.shields.io/badge/View%20HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/supreethahm517)
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&animation=fadeIn&text=Turning+Data+into+Decisions&fontSize=18&fontColor=ffffff&fontAlignY=65" width="100%"/>
 
 </div>
