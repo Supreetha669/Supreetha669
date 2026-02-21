@@ -185,7 +185,7 @@
 
 ---
 
-<div align="">
+<div align="center">
 
 ## 🏆 Certifications
 
