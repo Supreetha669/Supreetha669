@@ -33,13 +33,13 @@
 
 <img align="right" alt="Data Analysis GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-![Name](https://img.shields.io/badge/👩‍💻_Name-Supreetha_H_M-6C3483?style=flat-square)
-![Location](https://img.shields.io/badge/📍_Location-Mysore,_Karnataka,_India-1A5276?style=flat-square)
-![Education](https://img.shields.io/badge/🎓_Education-B.E._Computer_Science-117A65?style=flat-square)
-![University](https://img.shields.io/badge/🏫_University-VTU-B7950B?style=flat-square)
-![CGPA](https://img.shields.io/badge/📊_CGPA-8.44_/_10-922B21?style=flat-square)
-![Status](https://img.shields.io/badge/💼_Status-Open_to_Opportunities-27AE60?style=flat-square)
-![Passion](https://img.shields.io/badge/❤️_Passion-Data_to_Business_Intelligence-E74C3C?style=flat-square)
+🧑‍💻 **Name &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp; Supreetha H M
+📍 **Location &nbsp;&nbsp;:** &nbsp; Mysore, Karnataka, India
+🎓 **Education :** &nbsp; B.E. Computer Science
+🏫 **University &nbsp;:** &nbsp; Visvesvaraya Technological University
+📊 **CGPA &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp; 8.44 / 10
+💼 **Status &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp; Open to Full-time / Internship Roles
+❤️ **Passion &nbsp;&nbsp;&nbsp;&nbsp;:** &nbsp; Transforming raw data into business intelligence
 
 > *"Data is not just numbers — it is the language of better decisions."*
 
