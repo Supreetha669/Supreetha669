@@ -14,6 +14,9 @@
   <a href="mailto:supreethahm517@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://supreetha-hm-88qshf0.gamma.site/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Supreetha669&color=A569BD&style=for-the-badge&label=PROFILE+VIEWS)
@@ -22,7 +25,11 @@
 
 ---
 
+<div align="center">
+
 ## 👩‍💼 About Me
+
+</div>
 
 <img align="right" alt="Data Analysis GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
@@ -144,7 +151,11 @@ Passion    : Transforming raw data into business intelligence
 
 ---
 
+<div align="center">
+
 ## 📈 GitHub Stats
+
+</div>
 
 <div align="center">
 
