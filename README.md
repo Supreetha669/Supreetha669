@@ -218,18 +218,16 @@
 
 ## 📈 GitHub Stats
 
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A569BD&title_color=A569BD&icon_color=F1C40F"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&langs_count=8&theme=tokyonight&border_color=A569BD&title_color=A569BD"/>
+
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A569BD&icon_color=A569BD" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Supreetha669&theme=tokyonight&hide_border=true&background=0D1117&ring=A569BD&fire=FF6B6B&currStreakLabel=A569BD" width="48%"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A569BD" width="40%"/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Supreetha669&theme=tokyonight&border=A569BD&ring=A569BD&fire=F1C40F&currStreakLabel=A569BD)](https://git.io/streak-stats)
 
 </div>
 
@@ -237,29 +235,6 @@
 
 <div align="center">
 
-## 🤝 Let's Connect!
-
-<p>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:supreethahm517@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/supreethahm517">
-    <img src="https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
-
-### 💬 Open to:
-
-![Internship](https://img.shields.io/badge/🎯_Internships-Open-brightgreen?style=for-the-badge)
-![Full-Time](https://img.shields.io/badge/💼_Full--Time_Roles-Open-blue?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/🤝_Project_Collaborations-Open-orange?style=for-the-badge)
-
-</div>
-
----
 
 <div align="center">
 
