@@ -182,18 +182,6 @@
 
 <div align="center">
 
-## 🏅 Leadership
-
-</div>
-
-> 🔹 **Led a 3-member junior developer team** at Tackle-D Solutions Pvt Ltd — successfully deployed **10+ web applications** with a **100% on-time delivery rate**, enhancing client satisfaction scores by **20%**.
-
-> 🔹 **Spearheaded a proof-of-concept initiative** at C-DAC for detecting physical attacks on IoT devices. Coordinated with senior researchers and presented results that improved system threat coverage by **25%**.
-
----
-
-<div align="center">
-
 ## 📈 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A569BD&title_color=A569BD&icon_color=F1C40F"/>
@@ -208,28 +196,6 @@
 ---
 
 <div align="center">
-
-## 🤝 Let's Connect!
-
-<p>
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:supreethahm517@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/supreethahm517">
-    <img src="https://img.shields.io/badge/HackerRank-View_Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
-
-### 💬 Open to:
-
-![Internship](https://img.shields.io/badge/🎯_Internships-Open-brightgreen?style=for-the-badge)
-![Full-Time](https://img.shields.io/badge/💼_Full--Time_Roles-Open-blue?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/🤝_Project_Collaborations-Open-orange?style=for-the-badge)
-
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
