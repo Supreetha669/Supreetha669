@@ -26,39 +26,21 @@
 
 ## 👩‍💼 About Me
 
-</div>
+<img align="right" alt="Data Analysis GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<div align="center">
+```yaml
+Name       : Supreetha H M
+Location   : 📍 Mysore, Karnataka, India
+Education  : 🎓 B.E. Computer Science
+University : Visvesvaraya Technological University
+CGPA       : 8.44 / 10
+Status     : 💼 Open to Full-time / Internship Roles
+Passion    : Transforming raw data into business intelligence
+```
 
-| 📍 Mysore, Karnataka | 🎓 B.E. Computer Science | 💼 Open to Opportunities |
-|:---:|:---:|:---:|
-| Visvesvaraya Technological University | CGPA: 8.44 / 10 | Full-time / Internship |
+> *"Data is not just numbers — it is the language of better decisions."*
 
-</div>
-
-<br>
-
-<div align="center">
-
-*"Data is not just numbers — it is the language of better decisions."*
-
-</div>
-
-<br>
-
-<div align="center">
-
-| 🎯 Expertise | 🛠️ Core Skills | 🌱 Exploring |
-|:---|:---|:---|
-| Business Intelligence & Reporting | Power BI · Tableau · Looker Studio | Performance Marketing Analytics |
-| Data Cleaning & Transformation | SQL · Python · Pandas | Digital Experimentation & A/B Testing |
-| KPI Dashboards & Visual Storytelling | Excel · NumPy · Matplotlib | Predictive Analytics with ML |
-
-</div>
-
----
-
-<div align="center">
+<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
