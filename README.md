@@ -36,13 +36,11 @@
 | | |
 |:---|:---|
 | 👩‍💻 **Name** | Supreetha H M |
-| 📍 **Location** | Mysore, Karnataka, India |
+| 📍 **Location** | Bengaluru, Karnataka, India |
 | 🎓 **Education** | B.E. Computer Science |
 | 🏫 **University** | Visvesvaraya Technological University |
 | 📊 **CGPA** | 8.44 / 10 |
 | 💼 **Status** | Open to Full-time / Internship Roles |
-| ❤️ **Passion** | Transforming raw data into business intelligence |
-
 > *"Data is not just numbers — it is the language of better decisions."*
 
 <br clear="right"/>
