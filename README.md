@@ -189,17 +189,16 @@
 
 ## 🏆 Certifications
 
-| 🥇 Certification | 🏢 Issuing Organization |
-|:---:|:---:|
-| 🤖 GenAI Powered Data Analytics Job Simulation | **Tata Group** |
-| 📊 Data Analytics Job Simulation | **Deloitte Australia** |
-| 🧠 SQL (Advanced) | **HackerRank** |
-| 🐍 Python (Basic) | **HackerRank** |
-| 🌐 Introduction to Data Science | **Cisco Networking Academy** |
-| 📈 Data Analytics Essentials | **Cisco Networking Academy** |
-| 📉 Data Analytics | **A2M Infotech Pvt Ltd** |
-
 </div>
+
+| | |
+|---|---|
+| 🥇 **GenAI Powered Data Analytics Job Simulation** – Tata Group | 🥇 **Data Analytics Job Simulation** – Deloitte Australia |
+| 🥇 **SQL (Advanced)** – HackerRank | 🥇 **Python (Basic)** – HackerRank |
+| 🥇 **Introduction to Data Science** – Cisco Networking Academy | 🥇 **Data Analytics Essentials** – Cisco Networking Academy |
+| 🥇 **Data Analytics** – A2M Infotech Pvt Ltd | |
+
+<div align="center">
 
 ---
 
