@@ -170,6 +170,12 @@ Passion    : Transforming raw data into business intelligence
 
 </div>
 
+<div align="center">
+
+[![Supreetha's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Supreetha669&theme=tokyo-night&bg_color=0D1117&color=A569BD&line=F1C40F&point=FF6B6B&area=true&area_color=A569BD&hide_border=false&border_color=A569BD&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
 ---
 
 <div align="center">
