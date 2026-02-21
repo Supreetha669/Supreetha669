@@ -33,21 +33,21 @@
 
 <img align="right" alt="Data Analysis GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img align="right" alt="Data Analysis GIF" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Data Analysis GIF" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<img src="https://img.shields.io/badge/👩‍💻%20Name-Supreetha%20H%20M-8e44ad?style=for-the-badge"/>
+👩‍💻 **Name** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Supreetha H M <br/>
+📍 **Location** &nbsp;&nbsp;&nbsp;: Mysore, Karnataka, India <br/>
+🎓 **Education** &nbsp;: B.E. Computer Science <br/>
+🏫 **University** &nbsp;: Visvesvaraya Technological University <br/>
+📊 **CGPA** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 8.44 / 10 <br/>
+💼 **Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Open to Full-time / Internship Roles <br/>
+❤️ **Passion** &nbsp;&nbsp;&nbsp;&nbsp;: Transforming raw data into business intelligence <br/>
 
-<img src="https://img.shields.io/badge/📍%20Location-Mysore%2C%20Karnataka%2C%20India-1a5276?style=for-the-badge"/>
+<br/>
 
-<img src="https://img.shields.io/badge/🎓%20Education-B.E.%20Computer%20Science-117a65?style=for-the-badge"/>
+> *"Data is not just numbers — it is the language of better decisions."*
 
-<img src="https://img.shields.io/badge/🏫%20University-VTU-b7950b?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/📊%20CGPA-8.44%20%2F%2010-c0392b?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/💼%20Status-Open%20to%20Full--time%20%2F%20Internship-27ae60?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/❤️%20Passion-Data%20to%20Business%20Intelligence-e74c3c?style=for-the-badge"/>
+<br clear="right"/>
 
 > *"Data is not just numbers — it is the language of better decisions."*
 
