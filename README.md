@@ -22,27 +22,23 @@
 
 ---
 
-<div align="center">
-
 ## 👩‍💼 About Me
 
-| 📍 Mysore, Karnataka | 🎓 B.E. Computer Science | 💼 Open to Opportunities |
-|:---:|:---:|:---:|
-| Visvesvaraya Technological University | CGPA: 8.44 / 10 | Full-time / Internship |
+<img align="right" alt="Data Analysis GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<br>
+```yaml
+Name       : Supreetha H M
+Location   : 📍 Mysore, Karnataka, India
+Education  : 🎓 B.E. Computer Science
+University : Visvesvaraya Technological University
+CGPA       : 8.44 / 10
+Status     : 💼 Open to Full-time / Internship Roles
+Passion    : Transforming raw data into business intelligence
+```
 
-*"Data is not just numbers — it is the language of better decisions."*
+> *"Data is not just numbers — it is the language of better decisions."*
 
-<br>
-
-| 🎯 Expertise | 🛠️ Core Skills | 🌱 Exploring |
-|:---|:---|:---|
-| Business Intelligence & Reporting | Power BI · Tableau · Looker Studio | Performance Marketing Analytics |
-| Data Cleaning & Transformation | SQL · Python · Pandas | Digital Experimentation & A/B Testing |
-| KPI Dashboards & Visual Storytelling | Excel · NumPy · Matplotlib | Predictive Analytics with ML |
-
-</div>
+<br clear="right"/>
 
 ---
 
@@ -80,38 +76,6 @@
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
 </div>
-
----
-
-<div align="center">
-
-## 💼 Work Experience
-
-| 🏢 Company | 💼 Role | 📅 Duration | 📍 Location |
-|:---|:---|:---:|:---:|
-| **A2M Infotech Pvt Ltd** | Data Analyst Intern | Feb 2025 – Jun 2025 | Bengaluru, KA |
-| **Tackle-D Solutions Pvt Ltd** | Junior Software Developer | Apr 2024 – Nov 2024 | Kushalnagar, KA |
-| **C-DAC** | Intern | Aug 2023 – Feb 2024 | Bengaluru, KA |
-
-</div>
-
-<br>
-
-**🔹 A2M Infotech Pvt Ltd** — *Data Analyst Intern*
-- Performed large-scale data cleaning, validation, and EDA to uncover actionable patterns in customer and sales datasets
-- Utilized SQL and Python to analyze digital behavior and generate insights for product and marketing teams
-- Built automated dashboards and data pipelines, **improving reporting efficiency by 40%**
-- Defined KPIs and metrics to track customer engagement, operational performance, and product health
-
-**🔹 Tackle-D Solutions Pvt Ltd** — *Junior Software Developer*
-- Improved digital product performance, **reducing bounce rate by 15%** and **increasing user engagement by 30%**
-- Maintained **100% uptime** during peak traffic, ensuring seamless user experience
-- Led a team of 3 junior developers, delivering **10+ projects on time**, improving client satisfaction by 20%
-
-**🔹 C-DAC (Centre for Development of Advanced Computing)** — *Intern*
-- Optimized computational workflows using parallel programming in C++, **improving algorithm efficiency by 30%**
-- Contributed to a cybersecurity research project for IoT physical attack detection, **enhancing threat-coverage accuracy by 25%**
-- Performed data processing and system analysis as part of HPC research initiatives
 
 ---
 
@@ -180,14 +144,16 @@
 
 ---
 
-<div align="center">
-
 ## 📈 GitHub Stats
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Supreetha669&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=A569BD&title_color=A569BD&icon_color=F1C40F"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supreetha669&layout=compact&langs_count=8&theme=tokyonight&border_color=A569BD&title_color=A569BD"/>
 
-<br/><br/>
+</div>
+
+<div align="center">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Supreetha669&theme=tokyonight&border=A569BD&ring=A569BD&fire=F1C40F&currStreakLabel=A569BD)](https://git.io/streak-stats)
 
