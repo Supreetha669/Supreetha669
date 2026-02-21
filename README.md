@@ -46,9 +46,6 @@
 > *"Data is not just numbers — it is the language of better decisions."*
 
 <br clear="right"/>
-
-> *"Data is not just numbers — it is the language of better decisions."*
-
 <br clear="right"/>
 
 ---
