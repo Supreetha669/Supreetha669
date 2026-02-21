@@ -33,15 +33,15 @@
 
 <img align="right" alt="Data Analysis GIF" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```yaml
-Name       : Supreetha H M
-Location   : 📍 Mysore, Karnataka, India
-Education  : 🎓 B.E. Computer Science
-University : Visvesvaraya Technological University
-CGPA       : 8.44 / 10
-Status     : 💼 Open to Full-time / Internship Roles
-Passion    : Transforming raw data into business intelligence
-```
+| | |
+|:---|:---|
+| 👩‍💻 **Name** | Supreetha H M |
+| 📍 **Location** | Mysore, Karnataka, India |
+| 🎓 **Education** | B.E. Computer Science |
+| 🏫 **University** | Visvesvaraya Technological University |
+| 📊 **CGPA** | 8.44 / 10 |
+| 💼 **Status** | Open to Full-time / Internship Roles |
+| ❤️ **Passion** | Transforming raw data into business intelligence |
 
 > *"Data is not just numbers — it is the language of better decisions."*
 
