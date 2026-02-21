@@ -33,19 +33,18 @@
 
 <img align="right" alt="Data Analysis GIF" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtaTdhaGpsdHZud3Z5aGdpMnEzb3c3dXlsdW56djhpM3BhN3ZsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-👩‍💻 **Name** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Supreetha H M <br/>
-📍 **Location** &nbsp;&nbsp;&nbsp;: Mysore, Karnataka, India <br/>
-🎓 **Education** &nbsp;: B.E. Computer Science <br/>
-🏫 **University** &nbsp;: Visvesvaraya Technological University <br/>
-📊 **CGPA** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 8.44 / 10 <br/>
-💼 **Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Open to Full-time / Internship Roles <br/>
-❤️ **Passion** &nbsp;&nbsp;&nbsp;&nbsp;: Transforming raw data into business intelligence <br/>
-
-<br/>
+<table>
+  <tr><td>👩‍💻 <b>Name</b></td><td>Supreetha H M</td></tr>
+  <tr><td>📍 <b>Location</b></td><td>Mysore, Karnataka, India</td></tr>
+  <tr><td>🎓 <b>Education</b></td><td>B.E. Computer Science</td></tr>
+  <tr><td>🏫 <b>University</b></td><td>Visvesvaraya Technological University</td></tr>
+  <tr><td>📊 <b>CGPA</b></td><td>8.44 / 10</td></tr>
+  <tr><td>💼 <b>Status</b></td><td>Open to Full-time / Internship Roles</td></tr>
+  <tr><td>❤️ <b>Passion</b></td><td>Transforming raw data into business intelligence</td></tr>
+</table>
 
 > *"Data is not just numbers — it is the language of better decisions."*
 
-<br clear="right"/>
 <br clear="right"/>
 
 ---
