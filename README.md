@@ -200,17 +200,6 @@
 
 <div align="center">
 
----
-
-<div align="center">
-
-## 🏅 Leadership
-
-</div>
-
-> 🔹 **Led a 3-member junior developer team** at Tackle-D Solutions Pvt Ltd — successfully deployed **10+ web applications** with a **100% on-time delivery rate**, enhancing client satisfaction scores by **20%**.
-
-> 🔹 **Spearheaded a proof-of-concept initiative** at C-DAC for detecting physical attacks on IoT devices. Coordinated with senior researchers and presented results that improved system threat coverage by **25%**.
 
 ---
 
